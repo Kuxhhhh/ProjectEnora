@@ -35,7 +35,7 @@ git clone https://github.com/Kuxhhhh/Enora.git
 
 2. Open the project in **Unity 2022 or later**
 
-3. Load the `MainScene` or `StartScene` and press Play
+3. Load the `Ui`Scene and press Play
 
 ---
 
